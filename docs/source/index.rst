@@ -17,6 +17,7 @@ Contents
 .. toctree::
 
    usage
+   api
 
 Check out the :doc:`usage` section for further information.
 
